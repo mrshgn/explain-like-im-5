@@ -1,0 +1,13 @@
+name = "explain-like-im-5"
+compatibility_date = "2024-06-08"
+
+[ai]
+binding = "AI"
+
+[[kv_namespaces]]
+binding = "KV"
+id = ""
+preview_id = ""
+
+[build.upload]
+dir = "public"
